@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="json" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/.idea/package.json" />
+    <command value="run" />
+    <scripts />
+    <node-interpreter value="$PROJECT_DIR$/src/ConversorMoeda.java" />
+    <package-manager value="C:\Users\Dc188\IdeaProjects\conversorDeMoeda\src\JSONObject.java" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
